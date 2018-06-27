@@ -30,7 +30,7 @@ To install the MatConvNet follow the instructions given [here](http://www.vlfeat
   * Download the pretrained VGG Face Network from [here](http://www.vlfeat.org/matconvnet/models/vgg-face.mat) in ``` VGG Network ``` folder
   * Copy images into the ``` Input_Images ``` folder. Some example images are already included
   * Open the ``` main.m ``` in Matlab and run the code
-  * Output class of image will be save in ``` result structure``` with image name and class name
+  * Output class of image will be saved in ``` result ``` with image name and class name
 
 ### License
 
